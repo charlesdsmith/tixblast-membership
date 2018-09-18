@@ -1,3 +1,7 @@
+#Still a work in progress
+
+
+
 # thinkster-django-angular-boilerplate
 
 ## Installation
